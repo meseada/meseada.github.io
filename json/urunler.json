@@ -1,0 +1,26 @@
+[
+    {
+        "urun_id": 6,
+        "urun_isim": "Gözleme",
+        "urun_sira": 1,
+        "urun_aciklama": "                   Gözleme Tarifidir.                                                                                                                                                                                                                                                            ",
+        "urun_fiyat": "50",
+        "urun_kategori": "24",
+        "urun_durum": "true",
+        "urun_resim_durum": "true",
+        "urun_resim_baglanti": "https:\/\/www.tarifdefteri.org\/wp-content\/uploads\/2021\/12\/Ispanakli-Gozleme-Tarifi.jpg",
+        "urun_resim_yukleme": "1660508280.jpg"
+    },
+    {
+        "urun_id": 7,
+        "urun_isim": "Tarhana Çorbası",
+        "urun_sira": 2,
+        "urun_aciklama": " Tarhana çorbası tarifidir.",
+        "urun_fiyat": "35",
+        "urun_kategori": "25",
+        "urun_durum": "true",
+        "urun_resim_durum": "false",
+        "urun_resim_baglanti": "https:\/\/cdn.ye-mek.net\/App_UI\/Img\/out\/650\/2021\/05\/tarhana-corbasi-resimli-yemek-tarifi(11).jpg",
+        "urun_resim_yukleme": "1660504479.jpg"
+    }
+]
